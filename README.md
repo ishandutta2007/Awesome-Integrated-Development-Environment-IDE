@@ -52,25 +52,25 @@ The global Integrated Development Environment (IDE) software market is estimated
 
 ## 🔓 Open-Source GitHub Projects
 
-The following curated list of open-source IDEs and extensible code editors is sorted by total GitHub star count (descending).
+The following curated list of open-source IDEs and extensible code editors is sorted by total GitHub Stars_Count (descending).
 
-| Repository | GitHub Stars | Primary Language / Stack | Key Features |
+| Repository | GitHub_Stars | Primary Language / Stack | Key Features |
 | :--- | :--- | :--- | :--- |
-| **[Visual Studio Code](https://github.com/microsoft/vscode)** | [![GitHub stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers) | TypeScript / Electron | Extensible, lightweight code editor with massive marketplace ecosystem. |
-| **[Godot Engine IDE](https://github.com/godotengine/godot)** | [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | C++ / GDScript | All-in-one 2D & 3D game engine and integrated development environment. |
-| **[Neovim](https://github.com/neovim/neovim)** | [![GitHub stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers) | C / Lua | Hyperextensible Vim-based text editor with built-in LSP and async plugin architecture. |
-| **[Zed](https://github.com/zed-industries/zed)** | [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) | Rust | High-performance, GPU-accelerated multiplayer code editor built in Rust. |
-| **[Helix](https://github.com/helix-editor/helix)** | [![GitHub stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers) | Rust | Post-modern modal text editor with built-in LSP integration and tree-sitter support. |
-| **[Lapce](https://github.com/lapce/lapce)** | [![GitHub stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers) | Rust / Xi-rope | Lightning-fast native UI code editor written in Rust with WASM plugin support. |
-| **[VSCodium](https://github.com/VSCodium/vscodium)** | [![GitHub stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers) | Shell / JS | Telemetry-free, libre binary distribution of Microsoft's VS Code. |
-| **[Eclipse Theia](https://github.com/eclipse-theia/theia)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers) | TypeScript | Cloud & desktop extensible IDE framework supporting VS Code extensions. |
-| **[IntelliJ IDEA Community](https://github.com/JetBrains/intellij-community)** | [![GitHub stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=social&color=white)](https://github.com/JetBrains/intellij-community/stargazers) | Java / Kotlin | Open-source core platform for JetBrains IDEs, Java, and Android tooling. |
-| **[Geany](https://github.com/geany/geany)** | [![GitHub stars](https://img.shields.io/github/stars/geany/geany?style=social&color=white)](https://github.com/geany/geany/stargazers) | C / GTK | Lightweight Scintilla-based cross-platform GTK+ IDE with tiny memory footprint. |
-| **[Apache NetBeans](https://github.com/apache/netbeans)** | [![GitHub stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers) | Java | Modular polyglot IDE with comprehensive Java, PHP, and HTML5 tooling. |
-| **[Qt Creator](https://github.com/qt-creator/qt-creator)** | [![GitHub stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=social&color=white)](https://github.com/qt-creator/qt-creator/stargazers) | C++ / Qt | Cross-platform C++ and QML IDE tailored for embedded systems and GUI applications. |
-| **[KDevelop](https://github.com/KDE/kdevelop)** | [![GitHub stars](https://img.shields.io/github/stars/KDE/kdevelop?style=social&color=white)](https://github.com/KDE/kdevelop/stargazers) | C++ / KDE | Feature-rich open-source IDE built on KDE Frameworks with deep C/C++ semantic analysis. |
-| **[Eclipse Platform](https://github.com/eclipse-platform/eclipse.platform)** | [![GitHub stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social&color=white)](https://github.com/eclipse-platform/eclipse.platform/stargazers) | Java | Industrial-grade open-source Java & OSGi modular IDE infrastructure. |
-| **[Code::Blocks](https://github.com/codeblocks)** | [![GitHub stars](https://img.shields.io/github/stars/codeblocks?style=social&color=white)](https://github.com/codeblocks/stargazers) | C++ / wxWidgets | Highly configurable open-source C, C++, and Fortran IDE. |
+| **[Visual Studio Code](https://github.com/microsoft/vscode)** | [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/vscode?style=social&color=white)](https://github.com/microsoft/vscode/stargazers) | TypeScript / Electron | Extensible, lightweight code editor with massive marketplace ecosystem. |
+| **[Godot Engine IDE](https://github.com/godotengine/godot)** | [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers) | C++ / GDScript | All-in-one 2D & 3D game engine and integrated development environment. |
+| **[Neovim](https://github.com/neovim/neovim)** | [![GitHub_Stars](https://img.shields.io/github/stars/neovim/neovim?style=social&color=white)](https://github.com/neovim/neovim/stargazers) | C / Lua | Hyperextensible Vim-based text editor with built-in LSP and async plugin architecture. |
+| **[Zed](https://github.com/zed-industries/zed)** | [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) | Rust | High-performance, GPU-accelerated multiplayer code editor built in Rust. |
+| **[Helix](https://github.com/helix-editor/helix)** | [![GitHub_Stars](https://img.shields.io/github/stars/helix-editor/helix?style=social&color=white)](https://github.com/helix-editor/helix/stargazers) | Rust | Post-modern modal text editor with built-in LSP integration and tree-sitter support. |
+| **[Lapce](https://github.com/lapce/lapce)** | [![GitHub_Stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers) | Rust / Xi-rope | Lightning-fast native UI code editor written in Rust with WASM plugin support. |
+| **[VSCodium](https://github.com/VSCodium/vscodium)** | [![GitHub_Stars](https://img.shields.io/github/stars/VSCodium/vscodium?style=social&color=white)](https://github.com/VSCodium/vscodium/stargazers) | Shell / JS | Telemetry-free, libre binary distribution of Microsoft's VS Code. |
+| **[Eclipse Theia](https://github.com/eclipse-theia/theia)** | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers) | TypeScript | Cloud & desktop extensible IDE framework supporting VS Code extensions. |
+| **[IntelliJ IDEA Community](https://github.com/JetBrains/intellij-community)** | [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=social&color=white)](https://github.com/JetBrains/intellij-community/stargazers) | Java / Kotlin | Open-source core platform for JetBrains IDEs, Java, and Android tooling. |
+| **[Geany](https://github.com/geany/geany)** | [![GitHub_Stars](https://img.shields.io/github/stars/geany/geany?style=social&color=white)](https://github.com/geany/geany/stargazers) | C / GTK | Lightweight Scintilla-based cross-platform GTK+ IDE with tiny memory footprint. |
+| **[Apache NetBeans](https://github.com/apache/netbeans)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/netbeans?style=social&color=white)](https://github.com/apache/netbeans/stargazers) | Java | Modular polyglot IDE with comprehensive Java, PHP, and HTML5 tooling. |
+| **[Qt Creator](https://github.com/qt-creator/qt-creator)** | [![GitHub_Stars](https://img.shields.io/github/stars/qt-creator/qt-creator?style=social&color=white)](https://github.com/qt-creator/qt-creator/stargazers) | C++ / Qt | Cross-platform C++ and QML IDE tailored for embedded systems and GUI applications. |
+| **[KDevelop](https://github.com/KDE/kdevelop)** | [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdevelop?style=social&color=white)](https://github.com/KDE/kdevelop/stargazers) | C++ / KDE | Feature-rich open-source IDE built on KDE Frameworks with deep C/C++ semantic analysis. |
+| **[Eclipse Platform](https://github.com/eclipse-platform/eclipse.platform)** | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-platform/eclipse.platform?style=social&color=white)](https://github.com/eclipse-platform/eclipse.platform/stargazers) | Java | Industrial-grade open-source Java & OSGi modular IDE infrastructure. |
+| **[Code::Blocks](https://github.com/codeblocks)** | [![GitHub_Stars](https://img.shields.io/github/stars/codeblocks?style=social&color=white)](https://github.com/codeblocks/stargazers) | C++ / wxWidgets | Highly configurable open-source C, C++, and Fortran IDE. |
 
 ---
 
@@ -90,7 +90,7 @@ When selecting an Integrated Development Environment (IDE) or code editor, consi
 1. Fork this repository. 🍴
 2. Add or update entries in `README.md` following the tabular markdown format. 📝
 3. Ensure all links are direct and official (SaaS websites or GitHub repository URLs). 🔗
-4. Include accurate star badges, pricing details, and free tier parameters. ⭐
+4. Include accurate Stars_Badges, pricing details, and free tier parameters. ⭐
 5. Create a Pull Request with a short summary of changes. 🚀
 
 ---
@@ -115,7 +115,7 @@ Thank you for visiting and using this developer ecosystem guide! If you find thi
 ## ⚠️ Disclaimer
 
 - This curated list is maintained by the developer community for informational purposes.
-- Market valuations, pricing structures, and star counts are regularly updated but subject to change by vendors and repository maintainers.
+- Market valuations, pricing structures, and Stars_Counts are regularly updated but subject to change by vendors and repository maintainers.
 
 ---
 
