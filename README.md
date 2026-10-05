@@ -52,7 +52,7 @@ The global Integrated Development Environment (IDE) software market is estimated
 
 ## 🔓 Open-Source GitHub Projects
 
-The following curated list of open-source IDEs and extensible code editors is sorted by total GitHub Stars_Count (descending).
+The following curated list of open-source IDEs and extensible code editors is sorted by total GitHub_Stars_Count (descending).
 
 | Repository | GitHub_Stars | Primary Language / Stack | Key Features |
 | :--- | :--- | :--- | :--- |
